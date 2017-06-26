@@ -1,0 +1,6 @@
+User Name:' or 1=1 --'
+Password:' or 1=1 --'
+User Name:Dumb
+Password:Dumb
+User Name:' or 1=1 --'
+Password:' or 1=1 --'
